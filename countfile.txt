@@ -1,0 +1,4 @@
+./tmp/test.txt
+./tmp/test (copy).txt
+./tmp/test (another copy).txt
+./tmp/test (3rd copy).txt
